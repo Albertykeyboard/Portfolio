@@ -1,0 +1,1 @@
+Protein Designations from the MCLP were used as the naming nomenclature.
