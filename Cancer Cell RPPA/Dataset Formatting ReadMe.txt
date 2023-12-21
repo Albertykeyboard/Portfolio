@@ -30,3 +30,10 @@ To do this manually I am using Cellosarus
 I reorganized the original code for the preprocessing of the data so that it flow in a logical manner.
 The next step for me is going to be to figure out what graphs to generate as well as what model I want to run to model predict
 I may run unsupervised classification as well as this may be useful for finding tumor lines that could potentially share sensitivity even if they are a different indication altogether. However, this project should seek to NOT use deep learning style algorithms. This means most of the prediction analysis should be run in scikit learn.
+
+11/18/23
+Based on some literature, it seems some reproducibility should be relatively consistent across a few regression models.
+
+I suspect I should also run an unsupervised learning model as well. This is mostly to see a bit more of an unbiased setup.
+
+Ideas to run:
